@@ -6,8 +6,8 @@ authors = ["Stephen Sherratt <stephen@sherra.tt>"]
 license = "MIT"
 readme = "README.md"
 edition = "2021"
-homepage = "https://gitlab.com/gridbugs/mos6502.git"
-repository = "https://gitlab.com/gridbugs/mos6502.git"
+homepage = "https://github.com/portal-co/mx6502.git"
+repository = "https://github.com/portal-co/mx6502.git"
 documentation = "https://docs.rs/portal-solutions-mos6502-assembler"
 
 
