@@ -1,7 +1,7 @@
 [package]
 name = "portal-solutions-mos6502-assembler"
 description = "DSL for MOS6502 assembly"
-version = "0.0.0"
+version = "0.1.0"
 authors = ["Stephen Sherratt <stephen@sherra.tt>","gkgoat"]
 license = "MIT"
 readme = "README.md"
@@ -12,4 +12,4 @@ documentation = "https://docs.rs/portal-solutions-mos6502-assembler"
 
 
 [dependencies]
-portal-solutions-mos6502-model = { version = "0.2", path = "../model" }
+portal-solutions-mos6502-model = { version = "0.1.0", path = "../model" }
