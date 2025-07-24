@@ -1,8 +1,8 @@
 [package]
 name = "portal-solutions-mos6502-assembler"
 description = "DSL for MOS6502 assembly"
-version = "0.3.0"
-authors = ["Stephen Sherratt <stephen@sherra.tt>"]
+version = "0.0.0"
+authors = ["Stephen Sherratt <stephen@sherra.tt>","gkgoat"]
 license = "MIT"
 readme = "README.md"
 edition = "2021"
