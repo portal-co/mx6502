@@ -1,0 +1,15 @@
+[package]
+name = "portal-solutions-mos6502-assembler"
+description = "DSL for MOS6502 assembly"
+version = "0.3.0"
+authors = ["Stephen Sherratt <stephen@sherra.tt>"]
+license = "MIT"
+readme = "README.md"
+edition = "2021"
+homepage = "https://gitlab.com/gridbugs/mos6502.git"
+repository = "https://gitlab.com/gridbugs/mos6502.git"
+documentation = "https://docs.rs/portal-solutions-mos6502-assembler"
+
+
+[dependencies]
+portal-solutions-mos6502-model = { version = "0.2", path = "../model" }
