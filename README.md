@@ -1,13 +1,14 @@
 # mx6502
 
 ## Description
-Project mx6502
+A 6502 processor emulator/model and assembler workspace.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Emulate 6502 CPU
+- [ ] Provide assembler for 6502 assembly
 
 ## Progress
-- [ ] Initial setup
+- [ ] Workspace setup with `assembler` and `model`
 
 ---
 *AI assisted*
